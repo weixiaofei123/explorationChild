@@ -1,0 +1,19 @@
+
+#leaf{
+	       position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    
+}
+#canvas{
+/*	position: absolute;*/
+   
+  
+}
+#leaf_img{
+	width: 65px;
+	height: 65px;
+
+	display: none;
+}

@@ -1,0 +1,115 @@
+.login{
+	width: 100%;
+    margin: 0 auto;
+}
+.login_info{
+        width: 84%;
+    height: 500px;
+    margin: 15px auto;
+}
+.login_info>div{
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    position: relative;
+}
+.login_info>div:nth-child(2){
+      
+}
+.login_info>div:nth-child(3){
+            margin-left: 15px;
+}
+.login_info>div:nth-child(4){
+            margin-left: -16px;
+}
+.login_info>div:nth-child(5){
+            margin-left: -16px;
+}
+.login_info>div:nth-child(6){
+        margin-left: -40px;
+}
+.login_info>div:nth-child(7){
+          margin-left: 79px;
+    background-color: #16b9da;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 15px;
+    width: 262px;
+}
+#verify{
+    width: 120px;
+}
+.login_info>div>input{
+   height: 31px;
+    width: 208px;
+    margin-left: 15px;
+    border: 1px solid #d8d5d5;
+}
+.login_infoTitle{
+    border-bottom:1px solid #f4f4f4;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.login_infoUserExist{
+       width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -107px;
+    top: 14px;
+    color: red;
+}
+.login_infoUserPass{
+        width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -146px;
+    top: 14px;
+    color: red;
+}
+.login_infoUserSamePass{
+      width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -11px;
+    top: 14px;
+    color: red;
+}
+.login_infoUserPhone{
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -36px;
+    top: 14px;
+    color: red;
+}
+#loginButton{
+        width: 50%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #16b9da;
+    margin: 0px auto;
+}
+#login_infoPro{
+       width: 50%;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-align: left;
+}
+.login_infoProR{
+    float: right;
+}
+#login_infoProChe{
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-right: 10px;
+}

@@ -1,0 +1,151 @@
+
+.vipShade{
+           width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.3;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+
+}
+.vip{
+            width: 600px;
+    height: 400px;
+    position: fixed;
+    z-index: 10;
+    background-color: #fff;
+    left: 34%;
+    top: 247px;
+    
+}
+.vipLogin{
+    width: 100%;
+    height: 50px;
+    background-color: #363739;
+    color: #fff;
+    line-height: 50px;
+}
+.vipLoginRightButton{
+        margin: 0 15px;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    background-color: #e6c178;
+    margin: 10px 10px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 16px;
+}
+.vip_center{
+	width: 65%;
+    height: 100%;
+    margin: 0 auto;
+}
+.vipName{
+       width: 100%;
+    height: 33px;
+    text-align: center;
+    line-height: 33px;
+}
+
+.vip_logo{
+	    width: 19%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5%;
+}
+.vipType{
+       width: 100%;
+    height: 114px;
+}
+.vipType>div{
+	     width: 28%;
+    height: 92px;
+    display: inline-block;
+    color: #3191cc;
+    line-height: 30px;
+    text-align: center;
+    margin: 12px 2%;
+    border: 1px solid #000;
+}
+.vipSet{
+        width: 100%;
+    height: 31px;
+    line-height: 50px;
+    padding: 0 15px;
+}
+.payMethod{
+        width: 96%;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #000;
+    margin: 0 auto;
+}
+.vipPayScan{
+    width: 30%;
+    height: 100px;
+    margin: 12px 5%;
+    display: inline-block;
+    vertical-align: middle;
+}
+#headInfo>div{
+	display: inline-block;
+	margin: 0 15px;
+}
+#headInfo{
+	    float: right;
+    width: 19%;
+}
+.primary{
+    position: relative;
+    
+}
+.primary_down{
+        position: absolute;
+    top: -213px;
+    /* display: none; */
+    width: 100%;
+    display: none;
+    transition: all 10s ease-in-out 10s;
+    -moz-transition: all 10s ease-in-out 10s;
+    -webkit-transition: all 10s ease-in-out 10s;
+    -o-transition: all 10s ease-in-out 10s;
+    z-index: 4;
+    background-color: #fff;
+    color: #3191cc;
+ 
+}
+.primary:hover .primary_down{
+    display: block;
+    
+    top:30px;
+}
+.primary:hover{
+    color: #fff;
+    
+    background-color: #2aa9e0;
+}
+.vip_title li:hover{
+        width: 100%;
+    height: 35px;
+    color: #fff;
+    text-align: center;
+    margin-top: 230px;
+    font-size: 25px;
+}
+.vipLoginRightClosed{
+    float: right;
+    margin-right: 10px;
+}
+.vipLLogin{
+        width: 650px;
+    margin: 0 auto;
+    position: fixed;
+    top: 284px;
+    left: 626px;
+    z-index: 100;
+    background: #fff;
+    height: 336px;
+}

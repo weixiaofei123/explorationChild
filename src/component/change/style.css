@@ -1,0 +1,21 @@
+.more_center{
+    width: 100%;
+}
+.more{
+    width: 20%;
+    height: 30px;
+   
+    margin:15px auto;
+    line-height: 30px;
+    text-align: center;
+    background-color: #ccd0d7;
+}
+.moreM{
+	  width: 20%;
+    height: 30px;
+   
+    margin:15px auto;
+    line-height: 30px;
+    text-align: center;
+    background-color: #b5bac2;
+}

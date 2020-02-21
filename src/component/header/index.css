@@ -1,0 +1,160 @@
+.header{
+	    width: 100%;
+    height: 112px;
+    background-color: #fcfcfc;
+}
+.header_center{
+	width: 65%;
+    height: 100%;
+    margin: 0 auto;
+}
+.header_logo{
+	       width: 19%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0px;
+}
+.header_title{
+	    width: 75%;
+    height: 100%;
+    margin: 0 0%;
+    display: inline-block;
+    vertical-align: -32%;
+    position: relative;
+    left: -19%;
+    z-index:200;
+}
+.header_title>div{
+	   width: 15%;
+    height: 30px;
+    display: inline-block;
+    color: #000;
+    line-height: 30px;
+    text-align: center;
+    margin: 40px 2%;
+}
+#headInfo>div{
+	display: inline-block;
+	margin: 0 15px;
+}
+#headInfo{
+	    float: right;
+    width: 19%;
+}
+.primary{
+    position: relative;
+    
+}
+.primary_down1{
+        position: absolute;
+    top: -213px;
+    /* display: none; */
+    width: 100%;
+    display: none;
+    transition: all 10s ease-in-out 10s;
+    -moz-transition: all 10s ease-in-out 10s;
+    -webkit-transition: all 10s ease-in-out 10s;
+    -o-transition: all 10s ease-in-out 10s;
+    z-index: 4;
+    background-color: #fff;
+    color: #000;
+ 
+}
+.primary:hover .primary_down1{
+    display: block;
+    
+    top:30px;
+}.primary:hover{
+    color: #fff;
+    
+    background-color: #2aa9e0;
+}
+
+.header_title li:hover{
+    background-color: #2aa9e0;
+    color: #fff;
+    cursor: pointer;
+}
+.header_title li a:hover{
+    background-color: #2aa9e0;
+    color: #fff;
+}
+#header_logo{
+        width: 19%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5%;
+        margin: 0 64px;
+}
+#home:hover{
+    cursor: pointer;
+}
+.uni{
+    position: relative;
+    background-color: red;
+}
+.uni:hover .uni_down{
+    display: block;
+
+}
+
+.uni_down{
+    position: absolute;
+    width: 40px;
+    top:20px;
+    background-color: blue;
+    display: none;
+    z-index: 100;
+}
+.uni_down_left{
+   margin-left: 1px;
+}
+.uni_down_right{
+    margin-left: 25px;
+}
+.uni_down_li:hover .uni_down_left{
+    margin-left: 10px;
+    transition: all 0.5s ease;
+}
+.uni_down_li:hover .uni_down_right{
+    margin-left: 5px;
+    transition: all 0.5s ease;
+}
+#personnel{
+       width: 41%;
+    position: absolute;
+    right: -26%;
+    top: 1px;
+}
+.personnel_reg{
+       display: inline-block;
+    border: 1px solid #000;
+    width: 32%;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0px 10px;
+}
+.personnel_log{
+    display: inline-block;
+    border: 1px solid #000;
+    width: 32%;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0px 10px;
+}
+.personnel_reg:hover{
+   background-color: #24a5ff;
+    border: 1px solid  #24a5ff;
+    color:white;
+}
+.personnel_log:hover{
+   background-color: #24a5ff;
+   border: 1px solid  #24a5ff;
+   color:white;
+}

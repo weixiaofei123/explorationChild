@@ -1,0 +1,42 @@
+.center{
+	    width: 65%;
+    margin: 0 auto;
+    position: relative;
+}
+.leftView{
+	width: 40%;
+    height: 300px;
+    position: absolute;
+    right: 3%;
+    top: 10px;
+    min-width: 350px;
+}
+.leftView_item{
+	width: 100%;
+    height: 33%;
+    margin-bottom: 30px;
+}
+.leftView_itemTitle{
+	    font-size: 25px;
+    font-weight: 500;
+    color: #696969;
+}
+
+.leftView_itemTitle:hover{
+        font-size: 25px;
+    font-weight: 500;
+    color: #24a5ff;
+}
+.leftView_itemContent{
+	color: #808080;
+	font-size: 16px;
+}
+.leftView_item:hover{
+    width: 100%;
+    height: 33%;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.center_slider:hover{
+    cursor: pointer;
+}

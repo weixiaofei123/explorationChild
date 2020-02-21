@@ -1,0 +1,108 @@
+.register{
+	width: 100%;
+    margin: 0 auto;
+}
+.reg_info{
+    width: 30%;
+    height: 500px;
+    margin: 15px auto;
+}
+.reg_info>div{
+        text-align: center;
+    height: 60px;
+    line-height: 60px;
+    position: relative;
+}
+.reg_info>div:nth-child(2){
+      
+}
+.reg_info>div:nth-child(3){
+            margin-left: 15px;
+}
+.reg_info>div:nth-child(4){
+            margin-left: -16px;
+}
+.reg_info>div:nth-child(5){
+            margin-left: -16px;
+}
+.reg_info>div:nth-child(6){
+        margin-left: -40px;
+}
+.reg_info>div:nth-child(7){
+          margin-left: 79px;
+    background-color: #16b9da;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 15px;
+    width: 262px;
+}
+#verify{
+    width: 120px;
+}
+.reg_info>div>input{
+   height: 31px;
+    width: 208px;
+    margin-left: 15px;
+    border: 1px solid #d8d5d5;
+}
+.reg_infoTitle{
+    border-bottom:1px solid #f4f4f4;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+}
+#verification{
+        border: 1px solid #d8d5d5;
+    width: 61px;
+    height: 31px;
+    line-height: 31px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: green;
+}
+.reg_infoUserExist{
+       width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -107px;
+    top: 14px;
+    color: red;
+}
+.reg_infoUserPass{
+        width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -146px;
+    top: 14px;
+    color: red;
+}
+.reg_infoUserSamePass{
+      width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -11px;
+    top: 14px;
+    color: red;
+}
+.reg_infoUserPhone{
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: -36px;
+    top: 14px;
+    color: red;
+}
+#registerBtn{
+        background-color: #8a8ad6;
+    height: 59px;
+    width: 100%;
+    border-radius: 55px;
+}

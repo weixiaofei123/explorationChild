@@ -1,0 +1,39 @@
+.searchPage{
+    width: 100%;
+
+}
+.searchPage_wrap{
+    width: 70%;
+    margin:10px auto;
+}
+.searchPage_wrap>ul>li{
+        width: 100%;
+    height: 220px;
+    position: relative;
+    margin: 50px 0px;
+}
+.searchData_pic{
+        width: 29%;
+    height: 220px;
+    margin: 5px 5px;
+}
+.searchData_text{
+    position: absolute;
+    width: 85%;
+    height: 100px;
+    top: 40px;
+    left: 33%;
+
+}
+.searchData_title{
+    font-size: 32px;
+}
+.searchData_content{
+       width: 80%;
+    height: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}

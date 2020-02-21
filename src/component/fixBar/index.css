@@ -1,0 +1,61 @@
+.fixBar{
+        width: 50px;
+   /* height: 100px;*/
+    border-radius: 6px;
+    background-color: white;
+    position: fixed;
+    right: 53px;
+    bottom: 112px;
+    box-shadow: 3px 3px 5px #333;
+}
+.fixBarTop{
+        width: 100%;
+    height: 50px;
+    position: relative;
+}
+.fixBarTop:hover{
+      width: 100%;
+    height: 50px;
+    position: relative;
+    background-color: yellow;
+}
+.fixBarTop:hover .scanbar{
+        width: 75px;
+    height: 75px;
+    position: absolute;
+    top: -1px;
+    left: -81px;
+    /* display: none; */
+    border: 1px solid #e8dada;
+    border-radius: 8px;
+    display: block;
+
+}
+.fixBarDown{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    display: none;
+}
+.scanbar{
+       width: 75px;
+    height: 75px;
+    position: absolute;
+    top: -1px;
+    left: -81px;
+     display: none; 
+    border: 1px solid #e8dada;
+    border-radius: 8px;
+}
+.fixBarImg{
+    width: 100%;
+    height: 50px;
+}
+.barOccur{
+     width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    display: block;
+}
