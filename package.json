@@ -34,7 +34,7 @@
     "@clxx/image-picker": "0.0.9",
     "axios": "^0.19.0",
     "html-withimg-loader": "^0.1.16",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "rc-form": "^2.4.11",
     "rc-table": "^7.0.0-rc.1",
     "react": "^16.8.6",
