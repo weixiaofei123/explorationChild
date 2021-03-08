@@ -12,12 +12,14 @@ class Highschool extends React.Component{
 		var list=[];
 		var cato=[];
 		// console.log(this.props.highData)
-		if (this.props.highData.length) {
-			console.log("here")
+		// console.log(this.props.highData)
+		if (this.props.highData!=undefined) {
+		
 			// cato=this.props.highData.catogory.map(item=>{
 			// 							return <div className="high_downCatCont">{item}</div>
 			// 						});
 			for (var i=(this.props.highPage-1)*3;i<3*(this.props.highPage);i++) {
+				
 				var item=<div className="high_downContItem" data-k={i+1} onClick={(e)=>{
 								this.handelHighDetail(e)
 							}}>
@@ -37,7 +39,7 @@ class Highschool extends React.Component{
 			}
 
 			var imgMiddle=<div className="high_image" style={{
-							background:"url("+this.props.highData[6].imgURL+") no-repeat",
+							background:"url("+this.props.highData[(this.props.highPage-1)*3].imgURL+") no-repeat",
 							backgroundSize:"cover"
 							}}>
 
@@ -65,6 +67,7 @@ class Highschool extends React.Component{
 				
 			
 		}else{
+			console.log("here")
 			list=null;
 			// cato=null;
 		}
@@ -133,7 +136,7 @@ handelHighDetail(e){
 
 const mapStateToProps=(state)=>{
 	return{
-	highData:state.HighschoolReducer.highschoolData,
+	highData:state.HighschoolReducer.highschoolData.content,
 	highPage:state.HighFlipPageReducer.page
 	}
 }

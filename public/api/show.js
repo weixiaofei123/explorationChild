@@ -2,41 +2,41 @@
 {
 	"id":"1",
 	"imgURL":"../../src/static/images/4.jpg",
-	"title":"safjskljflkajljl"
+	"title":"lily"
 },
 {
 	"id":"2",
 	"imgURL":"../../src/static/images/4.jpg",
-	"title":"safjskljflkajljl"
+	"title":"jungle"
 },
 {
 	"id":"3",
 	"imgURL":"../../src/static/images/5.jpg",
-	"title":"safjskljflkajljl"
+	"title":"phone"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/5.jpg",
-	"title":"safjskljflkajljl"
+	"title":"basa"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/6.jpg",
-	"title":"safjskljflkajljl"
+	"title":"salmon"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/6.jpg",
-	"title":"safjskljflkajljl"
+	"title":"tuna"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/7.jpg",
-	"title":"safjskljflkajljl"
+	"title":"grouper"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/7.jpg",
-	"title":"safjskljflkajljl"
+	"title":"crab"
 }
 ]

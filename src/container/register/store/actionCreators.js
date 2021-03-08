@@ -85,7 +85,7 @@ export const handleUser=(value)=>{
 export const register=(userName,passWord,confirmPassword)=>{
 	
 	return (dispatch)=>{
-		$.post("../../../../public/api/register.php",{userName:userName,passWord:passWord,confirmPassword:confirmPassword},function(res){
+		$.post("../../../../public/api/register.js",{userName:userName,passWord:passWord,confirmPassword:confirmPassword},function(res){
 			const data=res;
 			dispatch(registerReturn(data))
 		})

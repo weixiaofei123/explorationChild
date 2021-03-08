@@ -8,7 +8,7 @@ const changeShowView=(data)=>{
 
 export const getShowData=()=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/show.php",function(res){
+		$.getJSON("../../../../public/api/show.js",function(res){
 			const data=res;
 			console.log(data)
 			dispatch(changeShowView(data))

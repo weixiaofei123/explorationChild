@@ -9,7 +9,7 @@ const getPrimaryData=(data)=>{
 export const getData=(no)=>{
 	return (dispatch)=>{
 		// console.log("here")
-		$.getJSON("../../../../public/api/View.php",{no:no},function(res){
+		$.getJSON("../../../../public/api/View.js",{no:no},function(res){
 			const data=res;
 
 			// console.log(data)

@@ -2,37 +2,37 @@
 {
 	"id":"1",
 	"imgURL":"/src/static/images/12.jpg",
-	"title":"safjskljflkajljl",
+	"title":"mathmatics",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"2",
 	"imgURL":"/src/static/images/slider1.jpg",
-	"title":"safjskljflkajljl",
+	"title":"primary literature",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"3",
 	"imgURL":"/src/static/images/slider2.jpg",
-	"title":"safjskljflkajljl",
+	"title":"animals",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"4",
 	"imgURL":"/src/static/images/slider3.jpg",
-	"title":"safjskljflkajljl",
+	"title":"fish and chips",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"5",
 	"imgURL":"/src/static/images/12.jpg",
-	"title":"safjskljflkajljl",
+	"title":"turtles",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"6",
 	"imgURL":"/src/static/images/12.jpg",
-	"title":"safjskljflkajljl",
+	"title":"whales",
 	"content":"wojofwjfoijwojfwjofjiowj"
 }
 ]

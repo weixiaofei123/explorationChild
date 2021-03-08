@@ -8,9 +8,9 @@ const getHighData=(data)=>{
 
 export const gethigh=(lesson)=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/highschool.php",{lesson:lesson},function(res){
+		$.getJSON("../../../../public/api/highschool.js",{lesson:lesson},function(res){
 			const data=res;
-			console.log(res)
+	
 			dispatch(getHighData(data))
 		})
 	}

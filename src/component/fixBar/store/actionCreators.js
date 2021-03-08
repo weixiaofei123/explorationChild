@@ -39,7 +39,7 @@ const logout1=()=>{
 
 export const logout=()=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/logout.php",function(res){
+		$.getJSON("../../../../public/api/logout.js",function(res){
 		console.log(res)
 		dispatch(logout1())
 	})

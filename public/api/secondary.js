@@ -2,313 +2,133 @@
 {
 	"id":"1",
 	"imgURL":"../../src/static/images/4.jpg",
-	"title":"1safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"title":"fish",
+	"content":"Alice’s story is typical of many disadvantaged children, who often feel lonely and vulnerable"
 },
 {
 	"id":"2",
 	"imgURL":"../../src/static/images/4.jpg",
-	"title":"2safjskljflkajl",
-	"content":"afdsfafdafagfdhhhsdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhniao"
+	"title":"sky",
+	"content":"Through no fault of her own, Alice feels different from the other children. Without the money for proper uniforms, shoes"
 },
 {
 	"id":"3",
 	"imgURL":"../../src/static/images/5.jpg",
-	"title":"3safjskljflkajljl",
-	"content":"afdsfafdafasggggggggggggggggggggggggggggggggggggggggggggggggggggggfsg"
+	"title":"stars",
+	"content":"She finds it hard to join in with the others in class and doesn’t have the support she needs to catch up"
 },
 {
 	"id":"4",
 	"imgURL":"../../src/static/images/5.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafafsggggggggggggggggggggggggggggggggggggggggggggfggggggggggggggggggggggggggggggggggggggggggggg"
+	"title":"earth",
+	"content":"When Jess was just five, her mum became too ill to work. As soon as she was old enough"
 },
 {
 	"id":"5",
 	"imgURL":"../../src/static/images/6.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"title":"sea",
+	"content":"For Jess, life felt totally overwhelming. She couldn’t afford what she needed for school and she began to lose faith in herself."
 },
 {
 	"id":"6",
 	"imgURL":"../../src/static/images/6.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"title":"leaf",
+	"content":"When his family lost their home due to financial hardship, Steven’s world was turned upside down."
 },
 {
 	"id":"7",
 	"imgURL":"../../src/static/images/7.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"title":"breath",
+	"content":"breath"
 },
 {
 	"id":"8",
 	"imgURL":"../../src/static/images/7.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"9",
-	"imgURL":"../../src/static/images/8.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"10",
-	"imgURL":"../../src/static/images/8.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"11",
-	"imgURL":"../../src/static/images/9.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"12",
-	"imgURL":"../../src/static/images/9.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"13",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"14",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"15",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"16",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"17",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 },
 {
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
-},
-{
-	"id":"18",
-	"imgURL":"../../src/static/images/10.jpg",
-	"title":"safjskljflkajljl",
-	"content":"afdsfafdafa"
+	"id":"8",
+	"imgURL":"../../src/static/images/7.jpg",
+	"title":"bird",
+	"content":"bird"
 }
 ]

@@ -8,7 +8,7 @@ const focus=(data)=>{
 
 export const getData=()=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/focus.php",function(res){
+		$.getJSON("../../../../public/api/focus.js",function(res){
 			const data=res;
 		
 			dispatch(focus(data))

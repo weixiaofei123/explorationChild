@@ -15,7 +15,7 @@ export const getVip=()=>{
 
 export const getDetailData=(data,table,id)=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/DetailView.php",{data:data,table:table,id:id},function(res){
+		$.getJSON("../../../../public/api/DetailView.js",{data:data,table:table,id:id},function(res){
 			const data=res;
 			console.log(data)
 			dispatch(changeDetailView(data))

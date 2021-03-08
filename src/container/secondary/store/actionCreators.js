@@ -8,7 +8,7 @@ const getSecData=(data)=>{
 
 export const getSec=(lesson)=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/secondary.php",{lesson:lesson},function(res){
+		$.getJSON("../../../../public/api/secondary.js",{lesson:lesson},function(res){
 			const data=res;
 			
 			dispatch(getSecData(data))
