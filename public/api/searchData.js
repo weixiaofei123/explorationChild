@@ -1,37 +1,37 @@
 [
 {
 	"id":"1",
-	"imgURL":"/src/static/images/12.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/12.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"2",
-	"imgURL":"/src/static/images/slider1.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/slider1.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"3",
-	"imgURL":"/src/static/images/slider2.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/slider2.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"4",
-	"imgURL":"/src/static/images/slider3.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/slider3.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"5",
-	"imgURL":"/src/static/images/12.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/12.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 },
 {
 	"id":"6",
-	"imgURL":"/src/static/images/12.jpg",
+	"imgURL":"https://weixiaofei123.github.io/explorationchild/src/static/images/12.jpg",
 	"title":"safjskljflkajljl",
 	"content":"wojofwjfoijwojfwjofjiowj"
 }
