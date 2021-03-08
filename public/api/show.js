@@ -1,42 +1,42 @@
 [
 {
 	"id":"1",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/4.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/4.jpg",
 	"title":"lily"
 },
 {
 	"id":"2",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/4.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/4.jpg",
 	"title":"jungle"
 },
 {
 	"id":"3",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/5.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/5.jpg",
 	"title":"phone"
 },
 {
 	"id":"4",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/5.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/5.jpg",
 	"title":"basa"
 },
 {
 	"id":"4",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/6.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/6.jpg",
 	"title":"salmon"
 },
 {
 	"id":"4",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/6.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/6.jpg",
 	"title":"tuna"
 },
 {
 	"id":"4",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/7.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/7.jpg",
 	"title":"grouper"
 },
 {
 	"id":"4",
-	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/EXPLORATIONCHILD/src/static/images/7.jpg",
+	"imgURL":"HTTPS://WEIXIAOFEI123.GITHUB.IO/explorationChild/src/static/images/7.jpg",
 	"title":"crab"
 }
 ]
