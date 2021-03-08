@@ -1,0 +1,111 @@
+.showMiddle{
+        width: 100%;
+    height: 150px;
+    margin: 10px auto;
+    position: relative;
+}
+.showMiddle_left{
+     width: 5%;
+    height: 150px;
+    background-color: #e0d7d7;
+    line-height: 150px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    z-index: 10;
+}
+.showMiddle_right{
+    width: 5%;
+    height: 150px;
+    background-color: #e0d7d7;
+    line-height: 150px;
+    text-align: center;
+    position: absolute;
+    right: 0px;
+}
+.showMiddle_middle{
+    width: 90%;
+    height: 150px;
+   /* background-color: yellow;*/
+    position: absolute;
+    left: 5%;
+    overflow: hidden;
+}
+.origin{
+    width: 130%;
+    height: 150px; 
+    position: absolute;
+    left: 0px;
+    transition: left .4s ease;
+  
+}
+.showMiddle_middle>ul>li{
+    width: 17%;
+    height: 150px;
+    float: left;
+    margin: 0px 1%;
+    border: 1px solid #f4f0f0;
+}
+.showMiddle_middle>ul>li>div{
+    width: 100%;
+    height: 150px;
+    
+}
+.displayNone{
+    display: none;
+}
+.move{
+    left:-100px;
+    transition: left .4s ease;
+}
+.showMiddle_middle>ul>li{
+    position: relative;
+}
+.showMiddle_middle_top{
+        position: absolute;
+    top: -20px;
+    font-size: 15px;
+    left: 20px;
+    opacity: 0;
+}
+.showMiddle_middle_down{
+    position: absolute;
+    bottom: -124px;
+    left: 15px;
+    font-size: 13px;
+      opacity: 0;
+}
+.showMiddle_middle>ul>li:nth-child(1):hover .showMiddle_middle_top{
+    top:15px;
+    opacity: 1;
+       position: absolute;
+ 
+    font-size: 15px;
+    left: 20px;
+    transition: all .3s ease;
+}
+.showMiddle_middle>ul>li:nth-child(1):hover .showMiddle_middle_down{
+    position: absolute;
+  
+    left: 15px;
+    font-size: 13px;
+    bottom:-110px;
+    opacity: 1;
+    transition: all .3s ease;
+}
+#sunShine{
+        position: absolute;
+    left: 112px;
+    width: 60px;
+    height: 2px;
+    background-color: green;
+    bottom: 57px;
+    opacity: 0;
+}
+.showMiddle_middle>ul>li:nth-child(1):hover #sunShine{
+    width: 30px;
+    left: 15px;
+    opacity: 1;
+  transition: all .5s ease;
+   
+}

@@ -1,0 +1,22 @@
+.more_center{
+    width: 100%;
+}
+.more{
+        width: 27%;
+    height: 35px;
+    margin: 78px auto;
+    line-height: 35px;
+    text-align: center;
+    background-color: #dde1e8;
+    border-radius: 15px;
+}
+.moreM{
+	width: 27%;
+    height: 35px;
+    margin: 78px auto;
+    line-height: 35px;
+    text-align: center;
+    background-color: #b5bac2;
+    cursor:pointer;
+    border-radius: 15px;
+}

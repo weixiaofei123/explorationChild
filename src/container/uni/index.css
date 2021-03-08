@@ -1,0 +1,18 @@
+.uni_img{
+	    width: 70%;
+    height: 200px;
+    background: url(/src/static/images/12.jpg) no-repeat;
+    margin: 10px auto;
+    background-size: 100% 100%;
+}
+.uni_content{
+	width: 50%;
+	margin: 15px auto;
+}
+.uni_content>ul>li{
+	margin:20px 0px;
+
+}
+.uni_content_name{
+	margin-left:30px;
+}

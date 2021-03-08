@@ -1,0 +1,39 @@
+.morePage{
+    width: 100%;
+
+}
+.morePage_wrap{
+    width: 70%;
+    margin:10px auto;
+}
+.morePage_wrap>ul>li{
+        width: 100%;
+    height: 220px;
+    position: relative;
+    margin: 50px 0px;
+}
+.moreData_pic{
+        width: 29%;
+    height: 220px;
+    margin: 5px 5px;
+}
+.moreData_text{
+    position: absolute;
+    width: 85%;
+    height: 100px;
+    top: 40px;
+    left: 33%;
+
+}
+.moreData_title{
+    font-size: 32px;
+}
+.moreData_content{
+       width: 80%;
+    height: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
