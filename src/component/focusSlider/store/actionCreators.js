@@ -8,15 +8,8 @@ const focus=(data)=>{
 
 export const getData=()=>{
 	return (dispatch)=>{
-<<<<<<< HEAD
-<<<<<<< HEAD
-		$.getJSON("../public/api/focus.js",function(res){
-=======
-		$.getJSON("../../../../public/api/focus.js",function(res){
->>>>>>> 8ffc8866fbf29439fcaae3f5f9ae8e89595abd9c
-=======
-		$.getJSON("../../../../public/api/focus.js",function(res){
->>>>>>> 8ffc8866fbf29439fcaae3f5f9ae8e89595abd9c
+
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/focus.js",function(res){
 			const data=res;
 		
 			dispatch(focus(data))

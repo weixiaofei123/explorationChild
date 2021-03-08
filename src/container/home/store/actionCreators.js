@@ -8,7 +8,7 @@ const changeLeftView=(data)=>{
 
 export const getLeftData=()=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/leftView.js",function(res){
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/leftView.js",function(res){
 			const data=res;
 			// console.log(data)
 			dispatch(changeLeftView(data))
@@ -30,7 +30,7 @@ const loginReturn=(data)=>{
 export const autoLogin=()=>{
 	
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/login.js",function(res){
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/login.js",function(res){
 			const data=res.result;
 			// const data=true;
 

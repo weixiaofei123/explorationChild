@@ -9,7 +9,7 @@ const getMostPop=(data)=>{
 export const getData=()=>{
 	return (dispatch)=>{
 		// console.log("here")
-		$.getJSON("../../../../public/api/mostPop.js",function(res){
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/mostPop.js",function(res){
 			const data=res;
 
 			console.log(data)

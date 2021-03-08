@@ -8,7 +8,7 @@ const getHighData=(data)=>{
 
 export const gethigh=(lesson)=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/highschool.js",{lesson:lesson},function(res){
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/highschool.js",{lesson:lesson},function(res){
 			const data=res;
 	
 			dispatch(getHighData(data))

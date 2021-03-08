@@ -20,7 +20,7 @@ export const afterLogin=()=>{
 export const login=(userName,passWord)=>{
 	
 	return (dispatch)=>{
-		$.post("../../../../public/api/login.js",{userName:userName,passWord:passWord},function(res){
+		$.post("https://weixiaofei123.github.io/explorationChild/public/api/login.js",{userName:userName,passWord:passWord},function(res){
 			const data=res.result;
 			// const data=true;
 

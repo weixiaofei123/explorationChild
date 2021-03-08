@@ -8,7 +8,7 @@ const focus=(data)=>{
 
 export const getData=()=>{
 	return (dispatch)=>{
-		$.getJSON("../../../../public/api/focus.js",function(res){
+		$.getJSON("https://weixiaofei123.github.io/explorationChild/public/api/focus.js",function(res){
 			const data=res;
 		
 			dispatch(focus(data))
